@@ -9,3 +9,5 @@ Displays polls and records responses.
 **V1**: Simple implementation in plain PHP.
 
 **V2**: Improves V1 introducing simple classes.
+
+**V3**: Added Bootstrap 4.
