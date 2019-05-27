@@ -11,3 +11,5 @@ Displays polls and records responses.
 **V2**: Improves V1 introducing simple classes.
 
 **V3**: Added Bootstrap 4.
+
+**V4**: Simple JavaScript to check radio button selection.
